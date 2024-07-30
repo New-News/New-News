@@ -1,0 +1,8 @@
+title: New News
+logo: https://avatars.githubusercontent.com/u/175710402?s=200&v=4
+description: News Grabber Service Latest Update News.
+show_downloads: true
+google_analytics:
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme 
